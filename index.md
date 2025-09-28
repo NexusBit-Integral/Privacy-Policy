@@ -1,11 +1,11 @@
----
+--
 title: Privacy Policy
 ---
 
 # Privacy Policy  
 _Last updated: September 27, 2025_
 
-**Eagle.Go** ("we", "our", or "us") provides this mobile application (the "App") free of charge.  
+We (Nexusbit Integral Pte Ltd) provides this mobile application **Eagle.Go** (the "App") free of charge.  
 This Privacy Policy explains how we handle information when you use Eagle.Go.
 
 ---
@@ -51,4 +51,5 @@ Updates will be posted here with a revised "last updated" date.
 ## Contact Us
 If you have any questions about this Privacy Policy, you can contact us at:
 
-📧 **support@yourdomainxyz.com**
+📧 **info@yourdomainxyz.com**
+website: **[h](https://nexusbit.com.sg/)**
